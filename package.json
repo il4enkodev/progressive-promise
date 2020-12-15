@@ -4,9 +4,17 @@
   "description": "Promise with an intermediate state",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
-  "keywords": [],
+  "keywords": ["js", "promise", "progress"],
   "author": "Ilcehnko Pavel",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/il4enkodev/progressive-promise.git"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
 }
