@@ -1,0 +1,12 @@
+{
+  "name": "progressive-promise",
+  "version": "1.0.0",
+  "description": "Promise with an intermediate state",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ilcehnko Pavel",
+  "license": "ISC"
+}
