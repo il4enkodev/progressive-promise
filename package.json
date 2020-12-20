@@ -2,7 +2,8 @@
   "name": "progressive-promise",
   "version": "1.0.0",
   "description": "Promise with an intermediate state",
-  "main": "index.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
@@ -12,7 +13,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/il4enkodev/progressive-promise.git"
+    "url": "https://github.com/il4enkodev/progressive-promise.git"
   },
   "devDependencies": {
     "typescript": "^4.1.3"
